@@ -1,0 +1,3 @@
+# Compiled simulation waveform files
+/vcd_files
+*.vcd
